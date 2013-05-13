@@ -1,0 +1,5 @@
+INDEX VERSION 1.126+D:\cygwin\home\ijonas\teoinfo\.metadata\.plugins\org.eclipse.jdt.core
+3137601323.index
+4097110439.index
+1576973235.index
+3859905695.index
