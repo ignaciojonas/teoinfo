@@ -9,6 +9,10 @@ En este proyecto se crea un sencillo motor de montecarlo para resolver el siguie
 
 A su vez se utiliza la libreria JFreeChart para crear un grafico de convergencia del vector estacionario.
 
-bmpLosPibes 
+Ejemplo BMP
 --------
 En este proyecto se muestra como levantar una imagen en Java.
+
+LZW
+--------
+En este proyecto estan los algoritmos de compresion y descompresion LZW.
