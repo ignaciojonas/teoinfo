@@ -34,8 +34,8 @@ public class PlotWindow extends ApplicationFrame {
 				dataset.getSeries(j).add(i+1,aux[j]);
 			}	
 		}
-				
 		
+		 
 		final JFreeChart chart = ChartFactory.createXYLineChart(
 	            "V*",          // chart title
 	            "Steps",               // domain axis label
