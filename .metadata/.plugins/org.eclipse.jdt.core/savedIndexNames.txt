@@ -1,6 +1,0 @@
-INDEX VERSION 1.126+F:\Repositories\teoinfo\.metadata\.plugins\org.eclipse.jdt.core
-1576973235.index
-3859905695.index
-3012621281.index
-1816422955.index
-3137601323.index
